@@ -14,22 +14,22 @@ We will emphasize the connection between prediction and attribution, emphasizing
 
 Slides and examples developed by:
 
-[Jeffrey D. Blume, PhD](http://biostat.app.vumc.org/wiki/Main/ThomasStewart)  
-Professor of Biostatistics, Biomedical Informatics, Biochemistry and Director of Graduate Education, Data Science Institute
-<i class="fas fa-envelope"></i> j.blume@Vanderbilt.Edu  
-<i class="fab fa-github-square"></i> statevidence
+[Jeffrey D. Blume, PhD](https://www.vumc.org/biostatistics/person/jeffrey-d-blume-phd)  
+Professor of Biostatistics, Biomedical Informatics, Biochemistry and Director of Graduate Education, Data Science Institute  
+<i class="fas fa-envelope"></i> j.blume@Vanderbilt.Edu    
+<i class="fab fa-github-square"></i> statevidence  
 
-[Matt Shotwell, PhD](http://biostat.app.vumc.org/wiki/Main/ThomasStewart)  
-Associate Professor of Biostatistics and Data Science
-<i class="fas fa-envelope"></i> matt.shotwell@Vanderbilt.Edu
+[Matt Shotwell, PhD](https://www.vumc.org/biostatistics/person/matt-shotwell-phd)  
+Associate Professor of Biostatistics and Data Science   
+<i class="fas fa-envelope"></i> matt.shotwell@Vanderbilt.Edu  
 
 [Thomas G. Stewart, PhD](http://biostat.app.vumc.org/wiki/Main/ThomasStewart)  
-Assistant Professor of Biostatistics and Data Science
+Assistant Professor of Biostatistics and Data Science    
 <i class="fas fa-envelope"></i> thomas.stewart@vanderbilt.edu  
-<i class="fab fa-github-square"></i> thomasgstewart
+<i class="fab fa-github-square"></i> thomasgstewart  
 
 [Megan Hollister](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/megan-hollister/)  
-PhD Biostatistics Candidate  
+PhD Biostatistics Candidate   
 <i class="fas fa-envelope"></i> megan.c.hollister@vanderbilt.edu  
-<i class="fab fa-github-square"></i> murraymegan
+<i class="fab fa-github-square"></i> murraymegan  
 
