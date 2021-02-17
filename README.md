@@ -18,7 +18,7 @@ Slides and examples developed by:
 Professor of Biostatistics, Biomedical Informatics, Biochemistry  
 Director of Graduate Education, Data Science Institute  
 :e-mail: j.blume@Vanderbilt.Edu    
-<i class="fab fa-github-square"></i> statevidence  
+:computer: Github: statevidence  
 
 [Matt Shotwell, PhD](https://www.vumc.org/biostatistics/person/matt-shotwell-phd)  
 Associate Professor of Biostatistics and Data Science   
@@ -27,10 +27,10 @@ Associate Professor of Biostatistics and Data Science
 [Thomas G. Stewart, PhD](http://biostat.app.vumc.org/wiki/Main/ThomasStewart)  
 Assistant Professor of Biostatistics and Data Science    
 :e-mail: thomas.stewart@vanderbilt.edu  
-<i class="fab fa-github-square"></i> thomasgstewart  
+:computer: Github: thomasgstewart  
 
 [Megan H. Murray](https://www.meganhmurray.com/)  
 PhD Biostatistics Candidate   
 :e-mail: megan.c.hollister@vanderbilt.edu  
-<i class="fab fa-github-square"></i> murraymegan  
+:computer: Github: murraymegan  
 
