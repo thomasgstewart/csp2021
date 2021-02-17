@@ -17,20 +17,20 @@ Slides and examples developed by:
 [Jeffrey D. Blume, PhD](https://www.vumc.org/biostatistics/person/jeffrey-d-blume-phd)  
 Professor of Biostatistics, Biomedical Informatics, Biochemistry  
 Director of Graduate Education, Data Science Institute  
-<i class="fas fa-envelope"></i> j.blume@Vanderbilt.Edu    
+:e-mail: j.blume@Vanderbilt.Edu    
 <i class="fab fa-github-square"></i> statevidence  
 
 [Matt Shotwell, PhD](https://www.vumc.org/biostatistics/person/matt-shotwell-phd)  
 Associate Professor of Biostatistics and Data Science   
-<i class="fas fa-envelope"></i> matt.shotwell@Vanderbilt.Edu  
+:e-mail: matt.shotwell@Vanderbilt.Edu  
 
 [Thomas G. Stewart, PhD](http://biostat.app.vumc.org/wiki/Main/ThomasStewart)  
 Assistant Professor of Biostatistics and Data Science    
-<i class="fas fa-envelope"></i> thomas.stewart@vanderbilt.edu  
+:e-mail: thomas.stewart@vanderbilt.edu  
 <i class="fab fa-github-square"></i> thomasgstewart  
 
 [Megan H. Murray](https://www.meganhmurray.com/)  
 PhD Biostatistics Candidate   
-<i class="fas fa-envelope"></i> megan.c.hollister@vanderbilt.edu  
+:e-mail: megan.c.hollister@vanderbilt.edu  
 <i class="fab fa-github-square"></i> murraymegan  
 
