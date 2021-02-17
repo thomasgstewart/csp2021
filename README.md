@@ -29,7 +29,7 @@ Assistant Professor of Biostatistics and Data Science
 <i class="fas fa-envelope"></i> thomas.stewart@vanderbilt.edu  
 <i class="fab fa-github-square"></i> thomasgstewart  
 
-[Megan Hollister](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/megan-hollister/)  
+[Megan H. Murray](https://www.vanderbilt.edu/biostatistics-graduate/cpt/people/megan-hollister/)  
 PhD Biostatistics Candidate   
 <i class="fas fa-envelope"></i> megan.c.hollister@vanderbilt.edu  
 <i class="fab fa-github-square"></i> murraymegan  
